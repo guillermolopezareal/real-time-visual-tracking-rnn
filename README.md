@@ -92,4 +92,5 @@ Custom synthetic dataset generator
 
 📘 Full Report
 📄 Read the full PDF report in this repository:
-FinalReport.pdf
+![Final Report](results/FinalReport.pdf)
+
