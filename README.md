@@ -1,8 +1,5 @@
 ✨ Real-Time Visual Tracking Using Recurrent Regression Networks (RNN)
 
-This repository contains the implementation for the project “Real-Time Visual Tracking with Recurrent Regression Networks” developed for CS577 – Deep Learning.
-The goal is to design a model capable of detecting and tracking objects across frames using a combination of:
-
 Fully Connected Networks (baseline detection)
 Convolutional Neural Networks (CNNs)
 Recurrent Neural Networks (RNN / ConvLSTM)
