@@ -72,9 +72,11 @@ OpenCV Baseline
   3. Detects multiple cars across frames
 
 🧪 Sample Visualizations
-Include in /results/ and reference:
+
 ![Dataset Generation](results/dataset_generator.png)
+
 ![IOU Metric](results/IOU.png)
+
 ![Training and Validation Loss](results/training_validation_loss.png)
 
 
