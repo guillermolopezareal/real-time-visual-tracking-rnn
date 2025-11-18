@@ -73,10 +73,10 @@ OpenCV Baseline
 
 🧪 Sample Visualizations
 Include in /results/ and reference:
-![Detection](results/detection_results.png)
-![Tracking](results/tracking_results.png)
-![IoU](results/iou_plot.png)
-![Loss](results/loss_accuracy.png)
+![Dataset Generation](results/dataset_generator.png)
+![IOU Metric](results/IOU.png)
+![Training and Validation Loss](results/training_validation_loss.png)
+
 
 🛠️ Technologies Used
 
