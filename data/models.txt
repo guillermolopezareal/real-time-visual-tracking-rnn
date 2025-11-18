@@ -1,0 +1,7 @@
+The generated models are the following ones: 
+
+- Object detection model: 
+https://drive.google.com/file/d/1-4R_mf2nLSXz8HA4-fYKAMVcmLt7NL32/view?usp=sharing
+
+- Object Tracking model:
+https://drive.google.com/file/d/1AlpYhW3QH3mujRle3o5u9RuYjQ3ZgG7I/view?usp=sharing

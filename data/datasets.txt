@@ -1,0 +1,7 @@
+The generated datasets are the following ones: 
+
+- Random images dataset: 
+https://drive.google.com/file/d/1SYg3AzmXjFxTPeJcdonu8PyHt0nezVLu/view?usp=sharing
+
+- Sequential images dataset:
+https://drive.google.com/file/d/1FOXJ7XV60E5rhKBwAcRzHTnxkYcuN1Uz/view?usp=sharing
